@@ -21,8 +21,7 @@ library(ggplot2)
 knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
-_Write your comments about image 1 below_
-
+The number of Chinese speakers should not show "1,026 billion". It should either be "1.026 billion", or "1,026 million".
 
 
 
