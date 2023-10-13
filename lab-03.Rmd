@@ -32,7 +32,7 @@ The number of Chinese speakers should not show "1,026 billion". It should either
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-_Write your comments about image 2 below_
+Needs to be a key, not clear what is being represented. Pie chart is not ideal for comparing two variables.
 
 
 
